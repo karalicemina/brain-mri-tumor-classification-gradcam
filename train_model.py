@@ -1,8 +1,8 @@
 # -----------------------------------------------------------------------------
 # PROJECT_INFO
 # Title: Brain MRI tumor classification — baseline CNN training
-# Author: [Your Name]
-# University: [Your University]
+# Author: [Emina Karalic]
+# University: [Sarajevo School of Science and Technology]
 # Purpose: Train a simple CNN baseline alongside ResNet50 for thesis comparison.
 # -----------------------------------------------------------------------------
 """Train and save a baseline CNN on train/val folder-per-class data."""
